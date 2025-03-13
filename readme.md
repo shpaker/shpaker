@@ -1,7 +1,7 @@
 🎉 Hi there 🎉
 
 * 🐍 python developer
-* 📚 co-author of the telegram blog [G33ks](https://t.me/g33ks)
+* 📚 co-founder of tech blog [G33ks](https://t.me/g33ks) [G33ks](https://t.me/g33ks)
 * 🧶 active member of russian IT-community "Habr" [@shpaker](https://habr.com/users/shpaker/)
-* ❄️ was born in snowy Siberia
-* 🎮 playstation gamer
+* ❄️ born in the heart of snowy Siberia
+* 🎮 nintendo gamer
